@@ -1,0 +1,29 @@
+.containerStyle{
+    background-image: linear-gradient(to right , blue,green,white);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formStyle{
+    margin: 25px;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    width: 70vh;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.containerStyle{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.buttonSize{
+    width: 120px;
+    margin: auto;
+}
